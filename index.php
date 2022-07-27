@@ -59,7 +59,7 @@ function aamirs_footer_script(){
  $(document).ready(function(){
  //allowed_file_types, max_file_size 
 
- /* function add_file_upload_to_form(
+ /* add_file_upload_to_form(
       add_after, //to add after what?
       container_css_class, //the file upload parent div
       upload_class, // apply class to input file upload
