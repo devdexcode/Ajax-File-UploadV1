@@ -4,7 +4,7 @@ Plugin Name: AJAX File Upload
 Plugin URI: 
 Description: Can add ajax file uploader that returns the file url inside a form. just add inside the script tag in the footer:  <br>add_file_upload_to_form( <br>add_after, //to add after what? <br> container_css_class, //the file upload parent div<br>upload_class, // apply class to input file upload<br>image_preview_class, // apply class to preview img tag parent<br>preview_image_class// apply class to preview img tag  );  
 Author:  Aamir Hussain
-Version: 0.1
+Version: 1.0
 Author URI: 
 */
 
